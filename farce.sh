@@ -5,7 +5,7 @@
 # changes the background image on Gnome and Xfce
 #
 # Author : Antoine-Alexis Bourdon
-# Link : www.github.com/...
+# Link : https://github.com/antoinealexisb/wallpaper
 # Version : 1.0.0
 # Dependency : libnotify-bin
 #
